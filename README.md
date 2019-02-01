@@ -7,3 +7,7 @@ Base de dados utilizada  'travistorrent_11_1_2017.csv.gz',  disponivel em <a hre
 |-------------|:--------------------------------:|
 |tr_build_id  | O id da compilação analisado, conforme relatado por Travis CI.|
 |||
+
+##  License
+
+<a href="https://github.com/wagnerfns/ci-analysis/blob/master/LICENSE">MIT</a>
