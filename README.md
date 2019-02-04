@@ -9,7 +9,7 @@ Base de dados utilizada  'travistorrent_11_1_2017.csv.gz',  disponivel em <a hre
 |||
 
 ### Análise da frequência de commits
- <a href="https://github.com/wagnerfns/ci-analysis/blob/master/question_01_-_02/An%C3%A1lise%20da%20frequ%C3%AAncia%20de%20commits%20.ipynb">Análise da frequência de commits</a>
+ <a href="https://github.com/wagnerfns/ci-analysis/blob/master/question_01_-_02/readme.md">Análise da frequência de commits</a>
 
 
 
