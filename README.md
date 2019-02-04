@@ -1,6 +1,6 @@
 # Continuous Integration Analysis
 
-Base de dados utilizada  'travistorrent_11_1_2017.csv.gz',  disponivel em <a href="https://travistorrent.testroots.org/page_access/">TravisTorrent</a>, se faz necessário extrair o arquivo CSV para o mesmo diretório do código.
+    Base de dados utilizada  'travistorrent_11_1_2017.csv.gz',  disponivel em <a href="https://travistorrent.testroots.org/page_access/">TravisTorrent</a>, se faz necessário extrair o arquivo CSV para o mesmo diretório do código.
 
 ## Data Description
 |Column       |Description |
@@ -8,13 +8,10 @@ Base de dados utilizada  'travistorrent_11_1_2017.csv.gz',  disponivel em <a hre
 |tr_build_id  | O id da compilação analisado, conforme relatado por Travis CI.|
 |||
 
-#### Análise da frequência de commits
-    ** Dataset dividido em projetos de baixa, média e alta frequência .
-    
-    ** O quão frequente são projetos que usam CI? Mas que fazem commits infrequentes (menor que a média)?
-<a href="https://github.com/wagnerfns/ci-analysis/blob/master/question_01_-_02/An%C3%A1lise%20da%20frequ%C3%AAncia%20de%20commits%20.ipynb">Análisse de commits frequêntes e infrequentes</a>
+### Análise da frequência de commits
+ <a href="https://github.com/wagnerfns/ci-analysis/blob/master/question_01_-_02/An%C3%A1lise%20da%20frequ%C3%AAncia%20de%20commits%20.ipynb">Análise da frequência de commits</a>
+
 
 
 ##  License
-
 <a href="https://github.com/wagnerfns/ci-analysis/blob/master/LICENSE">MIT</a>
