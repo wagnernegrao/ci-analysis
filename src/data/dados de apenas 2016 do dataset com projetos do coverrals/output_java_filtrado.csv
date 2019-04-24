@@ -1,0 +1,76 @@
+,tr_build_id,gh_project_name,gh_is_pr,gh_pr_created_at,gh_lang,git_branch,gh_num_commits_in_push,git_prev_commit_resolution_status,tr_prev_build,gh_first_commit_created_at,gh_team_size,gh_sloc,gh_pushed_at,tr_status,tr_log_setup_time,tr_log_bool_tests_failed,tr_log_buildduration
+2629601,68967540.0,drewnoakes/metadata-extractor,False,,java,master,1.0,build_found,68886310.0,2015-03-12 07:07:04,3,18731,2016-03-15,passed,0.0,,40.0
+2634173,69218190.0,grpc/grpc-java,False,,java,master,1.0,build_found,69196860.0,2015-03-17 02:28:12,17,28820,2016-02-03,passed,0.0,,
+2693664,72209430.0,grpc/grpc-java,False,,java,master,3.0,build_found,72209080.0,2015-04-04 17:23:54,18,29843,2016-01-03,passed,0.0,,
+2693666,72209700.0,grpc/grpc-java,False,,java,master,1.0,build_found,72209430.0,2015-04-04 17:23:54,18,29845,2016-01-03,passed,0.0,,
+2803448,78666720.0,grpc/grpc-java,False,,java,master,1.0,build_found,78665080.0,2015-05-08 11:32:38,15,32029,2016-02-03,errored,1.0,,
+2964333,90396040.0,GoogleCloudPlatform/DataflowJavaSDK,False,,java,master,1.0,build_found,90386480.0,2015-06-28 03:42:02,25,54708,2016-01-19,passed,5.0,,
+2982794,92007930.0,restlet/restlet-framework-java,True,2015-11-19 09:04:48,java,master,3.0,build_found,88388040.0,2015-07-06 02:31:23,6,114901,2016-01-26,passed,0.0,False,
+2990093,92684110.0,iluwatar/java-design-patterns,True,2015-11-23 09:28:56,java,master,20.0,build_found,92659460.0,2015-07-08 13:13:03,11,9296,2016-01-03,passed,0.0,False,268.0
+3071322,99224750.0,javaparser/javaparser,True,2015-12-29 08:49:30,java,master,2.0,build_found,96703990.0,2015-07-31 16:13:37,7,12234,2016-01-13,passed,0.0,False,47.92
+3080026,99784390.0,jamesagnew/hapi-fhir,False,,java,master,1.0,build_found,99761190.0,2015-08-04 16:43:54,5,548084,2016-01-02,failed,7.0,,308.0
+3080033,99786170.0,sevntu-checkstyle/sevntu.checkstyle,True,2016-01-02 04:53:28,java,master,1.0,build_found,99674480.0,2015-08-04 16:43:54,8,7618,2016-01-03,passed,72.0,False,
+3095457,100699640.0,dropwizard/dropwizard,False,,java,master,2.0,merge_found,,2015-08-07 16:15:05,29,16068,2016-01-19,passed,1.0,False,203.0
+3109843,101848440.0,rackerlabs/blueflood,False,,java,master,4.0,merge_found,,2015-08-15 21:47:51,25,17558,2016-01-12,passed,2.0,False,
+3111477,101983140.0,searls/jasmine-maven-plugin,False,,java,master,1.0,build_found,84234060.0,2015-08-17 11:58:08,4,2017,2016-01-12,passed,13.0,,75.0
+3117893,102515840.0,thatJavaNerd/JRAW,False,,java,master,1.0,build_found,102513150.0,2015-08-19 18:45:30,5,8356,2016-01-15,failed,1.0,True,216.0
+3117907,102521250.0,dropwizard/dropwizard,False,,java,master,2.0,merge_found,,2015-08-19 18:45:30,31,16101,2016-01-15,passed,1.0,False,260.0
+3119357,102606344.0,thatJavaNerd/JRAW,False,,java,master,1.0,build_found,102515840.0,2015-08-20 09:40:51,5,8356,2016-01-15,failed,0.0,True,225.0
+3122990,102966310.0,caelum/mamute,False,,java,master,2.0,merge_found,,2015-08-21 13:24:11,4,15369,2016-01-17,failed,8.0,,
+3124779,103123304.0,dropwizard/dropwizard,True,2016-01-18 14:44:12,java,master,2.0,build_found,103007070.0,2015-08-17 11:39:22,31,16106,2016-01-18,passed,0.0,False,305.0
+3134325,103696900.0,rackerlabs/blueflood,True,2016-01-20 16:49:46,java,master,1.0,build_found,103686750.0,2015-08-24 11:50:18,25,17587,2016-01-20,passed,0.0,False,
+3134391,103704136.0,rackerlabs/blueflood,True,2016-01-20 21:21:30,java,master,3.0,build_found,103224630.0,2015-08-26 08:24:09,25,17558,2016-01-22,passed,2.0,False,
+3141144,104276000.0,igniterealtime/Smack,False,,java,master,9.0,merge_found,,2015-08-28 13:56:49,1,53401,2016-01-23,passed,5.0,,
+3141542,104348400.0,psi-probe/psi-probe,False,,java,master,2.0,merge_found,,2015-08-28 14:50:03,7,13754,2016-01-23,passed,1.0,False,10.45
+3145099,104640600.0,graphhopper/graphhopper,False,,java,master,1.0,build_found,104635416.0,2015-08-30 16:53:24,10,30435,2016-01-25,passed,4.0,,147.0
+3145435,104675560.0,torakiki/pdfsam,False,,java,master,1.0,build_found,103574080.0,2015-08-30 18:26:37,3,11170,2016-01-25,passed,1.0,False,230.0
+3145502,104681680.0,querydsl/querydsl,True,2016-01-25 16:49:26,java,master,3.0,build_found,104462696.0,2015-08-30 20:07:17,11,50789,2016-01-28,passed,2.0,,30.43
+3145527,104683610.0,grpc/grpc-java,False,,java,master,1.0,build_found,104222990.0,2015-08-30 21:18:36,13,41762,2016-01-25,passed,1.0,,
+3145576,104688820.0,rackerlabs/blueflood,True,2016-01-22 23:33:47,java,master,1.0,build_found,104208856.0,2015-08-30 21:39:55,25,17600,2016-01-25,passed,0.0,False,
+3145622,104690300.0,querydsl/querydsl,False,,java,master,2.0,merge_found,,2016-01-20 19:04:32,11,50844,2016-01-25,errored,3.0,False,437.0
+3145650,104693660.0,grpc/grpc-java,False,,java,master,1.0,build_found,104683610.0,2015-08-05 00:17:31,13,41762,2016-01-25,passed,5.0,,
+3145652,104694296.0,grpc/grpc-java,False,,java,master,1.0,build_found,104693660.0,2015-08-05 00:17:31,13,41762,2016-01-25,failed,1.0,,
+3145684,104696080.0,jamesagnew/hapi-fhir,False,,java,master,4.0,merge_found,,2015-08-30 12:42:32,6,548866,2016-01-25,failed,10.0,,59.71
+3146291,104717704.0,rackerlabs/blueflood,True,2016-01-22 23:33:47,java,master,1.0,build_found,104688820.0,2016-01-25 19:15:18,27,17600,2016-01-25,passed,1.0,False,
+3146448,104721540.0,GoogleCloudPlatform/DataflowJavaSDK,True,2016-01-24 15:53:21,java,master,4.0,build_found,103998530.0,2016-01-24 15:33:40,12,60161,2016-01-31,passed,1.0,False,332.0
+3146455,104724376.0,rackerlabs/blueflood,False,,java,master,7.0,merge_found,,2015-08-29 08:32:59,27,17587,2016-01-25,passed,4.0,False,
+3146571,104728584.0,rackerlabs/blueflood,False,,java,master,12.0,merge_found,,2016-01-20 22:44:48,27,17600,2016-01-25,passed,1.0,False,
+3146783,104745140.0,grpc/grpc-java,False,,java,master,2.0,build_found,104694296.0,2016-01-22 01:09:02,13,41762,2016-01-25,passed,1.0,,
+3146789,104746780.0,grpc/grpc-java,False,,java,master,1.0,build_found,104745140.0,2016-01-25 19:08:14,13,41767,2016-01-25,passed,2.0,,
+3146819,104754640.0,bitcoinj/bitcoinj,False,,java,master,1.0,build_found,104270430.0,2016-01-25 21:51:47,8,82399,2016-01-25,passed,2.0,,
+3146925,104760370.0,connectbot/connectbot,False,,java,master,2.0,merge_found,,2016-01-25 07:31:11,5,16494,2016-01-25,passed,1.0,,
+3146929,104762560.0,bitcoinj/bitcoinj,False,,java,master,3.0,build_found,104760584.0,2016-01-17 09:44:08,8,82455,2016-01-25,passed,2.0,,
+3146959,104763160.0,grpc/grpc-java,False,,java,master,1.0,build_found,104746780.0,2016-01-25 22:22:27,13,41767,2016-01-25,passed,481.0,,
+3147317,104787830.0,connectbot/connectbot,False,,java,master,2.0,merge_found,,2015-08-06 14:35:31,5,16494,2016-01-26,passed,2.0,,
+3150056,104991060.0,querydsl/querydsl,True,2016-01-26 18:59:18,java,master,1.0,build_found,99987820.0,2015-09-01 10:58:06,11,50634,2016-01-26,passed,2.0,False,483.0
+3156595,105451120.0,iluwatar/java-design-patterns,True,2016-01-28 16:01:16,java,master,13.0,build_found,105016904.0,2015-09-04 02:34:07,9,9918,2016-02-05,passed,0.0,False,341.0
+3168929,106385920.0,mybatis/spring,True,2016-02-02 03:44:46,java,master,2.0,build_found,98570550.0,2015-09-09 20:13:14,4,1540,2016-02-02,passed,1.0,False,
+3170930,106512930.0,iluwatar/java-design-patterns,False,,java,master,1.0,build_found,106312250.0,2016-02-02 16:31:12,9,9838,2016-02-25,passed,1.0,False,378.0
+3172463,106628240.0,caelum/mamute,False,,java,master,3.0,merge_found,,2015-09-11 05:13:42,4,15477,2016-02-03,passed,4.0,False,
+3172464,106628616.0,caelum/mamute,False,,java,master,3.0,merge_found,,2015-09-11 08:01:09,4,15477,2016-02-03,passed,4.0,False,
+3176051,106815730.0,jamesagnew/hapi-fhir,False,,java,master,2.0,merge_found,,2015-09-13 01:38:16,6,554699,2016-02-03,passed,8.0,,633.0
+3179112,107007220.0,rackerlabs/blueflood,False,,java,master,2.0,merge_found,,2015-09-14 14:12:55,28,17627,2016-02-04,failed,1.0,,
+3188632,107712980.0,jcabi/jcabi-aspects,False,,java,master,1.0,build_found,106007150.0,2015-09-17 08:24:30,7,2370,2016-02-01,passed,1.0,,1.74
+3194249,108089816.0,square/keywhiz,False,,java,master,3.0,merge_found,,2016-02-06 00:50:26,7,9281,2016-02-09,passed,67.0,False,
+3194711,108130456.0,rackerlabs/blueflood,False,,java,master,3.0,merge_found,,2015-09-13 07:45:52,28,17351,2016-02-09,passed,1.0,False,
+3197725,108334560.0,grpc/grpc-java,False,,java,master,1.0,build_found,107119340.0,2015-09-18 05:54:27,15,41785,2016-02-10,passed,1.0,,
+3200139,108537420.0,rackerlabs/blueflood,True,2016-02-11 04:16:15,java,master,3.0,build_found,108135630.0,2015-09-21 19:44:54,28,17351,2016-02-12,passed,0.0,False,
+3203459,108843920.0,grpc/grpc-java,True,2016-02-05 21:33:24,java,master,1.0,build_found,108675020.0,2015-09-23 06:44:08,16,42012,2016-02-12,passed,560.0,,
+3203468,108846080.0,querydsl/querydsl,True,2016-02-12 17:55:52,java,master,2.0,build_found,108019816.0,2015-09-23 06:17:46,11,51012,2016-02-15,passed,2.0,False,501.0
+3219363,110307430.0,grpc/grpc-java,False,,java,master,1.0,build_found,110301900.0,2015-09-29 13:58:25,16,41992,2016-02-19,failed,1.0,,
+3219674,110338600.0,iluwatar/java-design-patterns,True,2016-02-19 09:48:20,java,master,2.0,build_found,110314930.0,2015-09-29 15:19:41,9,10036,2016-02-20,passed,0.0,False,378.0
+3246812,112682590.0,querydsl/querydsl,False,,java,master,4.0,merge_found,,2015-10-09 15:00:26,11,51090,2016-02-29,passed,3.0,False,622.0
+3246815,112683260.0,rackerlabs/blueflood,False,,java,master,3.0,merge_found,,2015-10-09 15:00:26,28,17416,2016-02-29,passed,2.0,False,
+3249847,112913970.0,grpc/grpc-java,False,,java,master,1.0,build_found,112762270.0,2015-10-05 22:24:41,17,41956,2016-03-01,passed,1.0,,
+3256508,113436110.0,bitcoinj/bitcoinj,False,,java,master,2.0,build_found,113150100.0,2015-10-14 15:41:52,8,84118,2016-03-03,passed,12.0,,
+3256531,113438030.0,rackerlabs/blueflood,False,,java,master,2.0,merge_found,,2015-10-14 15:41:52,28,17445,2016-03-03,failed,1.0,False,
+3261594,113744490.0,GoogleCloudPlatform/DataflowJavaSDK,False,,java,master,2.0,build_found,112994910.0,2016-02-29 23:24:49,9,53304,2016-01-13,errored,6.0,,
+3266320,114226190.0,myui/hivemall,False,,java,master,1.0,build_found,114169740.0,2015-10-07 02:14:26,2,24516,2016-01-06,passed,6.0,False,272.0
+3276954,115014540.0,graphhopper/graphhopper,False,,java,master,2.0,merge_found,,2015-10-23 15:29:06,9,30335,2016-03-10,passed,2.0,,210.0
+3279018,115210330.0,grpc/grpc-java,False,,java,master,1.0,build_found,115206970.0,2015-10-24 05:05:16,17,42826,2016-02-09,passed,1.0,,
+3285847,115821144.0,jamesagnew/hapi-fhir,False,,java,master,1.0,build_found,115569250.0,2015-10-26 20:15:56,6,557444,2016-03-14,passed,6.0,,531.0
+3285878,115824984.0,dropwizard/dropwizard,False,,java,master,1.0,build_found,111020150.0,2015-10-27 10:18:33,29,16570,2016-03-14,passed,1.0,False,299.0
+3288661,116117100.0,p6spy/p6spy,True,2016-03-15 09:28:06,java,master,4.0,build_found,116075590.0,2015-10-28 22:13:46,3,4220,2016-02-07,failed,303.0,,
+3304122,117558750.0,bitcoinj/bitcoinj,False,,java,master,1.0,build_found,117556090.0,2015-10-29 13:44:38,8,84161,2016-03-21,passed,1.0,,
+3304140,117559670.0,rackerlabs/blueflood,False,,java,master,9.0,merge_found,,2015-10-29 13:44:38,28,17333,2016-03-21,passed,2.0,False,
+3304149,117562344.0,bitcoinj/bitcoinj,False,,java,master,1.0,build_found,117558750.0,2015-10-29 13:44:38,8,84171,2016-03-21,passed,1.0,,
