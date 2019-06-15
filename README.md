@@ -1,12 +1,22 @@
 # Continuous Integration Analysis
 
-Database used  'travistorrent_11_1_2017.csv.gz',  available in <a href="https://travistorrent.testroots.org/page_access/">TravisTorrent</a>.
+Database used 'travistorrent_11_1_2017.csv.gz',  available in <a href="https://travistorrent.testroots.org/page_access/">TravisTorrent</a>.
 
 ## Data Description
-
 This page <a href="https://travistorrent.testroots.org/page_dataformat/">aqui</a>, the TravisTorrent data format is described.
 
-### How to run
+## Dependencies
+For install dependencies, use pip and pip3.
+```pip3 install jupyter ```
+```sudo apt-get install git-annex ```
+```pip install pandas ```
+```pip install numpy ```
+``` ```
+
+## Data
+To synchronize the dataset with the local repository use the command ``` ```.
+
+## How to run
 For Linux environments, use the command on the terminal ```jupyter notebook``` to run the jupyter notebook locally.
 
 Easy ways to run your Jupyter Notebook in the cloud:
