@@ -8,13 +8,14 @@ This page <a href="https://travistorrent.testroots.org/page_dataformat/">aqui</a
 ## Dependencies
 For install dependencies, use pip and pip3.
 ```pip3 install jupyter ```
-```sudo apt-get install git-annex ```
 ```pip install pandas ```
 ```pip install numpy ```
-``` ```
+```pip install matplotlib ```
+```sudo apt-get install git-annex ```
+
 
 ## Data
-To synchronize the dataset with the local repository use the command ``` ```.
+To synchronize the dataset with the local repository use the command ```git annex sync --content ```.
 
 ## How to run
 For Linux environments, use the command on the terminal ```jupyter notebook``` to run the jupyter notebook locally.
