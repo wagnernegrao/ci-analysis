@@ -1,9 +1,11 @@
-# Continuous Integration Analysis
+# Continuous Integration Theater
+
+This repository contains the materials used in the paper: "Continuous Integration Theater", submitted to the 13th International Symposium on Empirical Software Engineering and Measurement (ESEM).
 
 Database used 'travistorrent_11_1_2017.csv.gz',  available in <a href="https://travistorrent.testroots.org/page_access/">TravisTorrent</a>.
 
 ## Data Description
-This page <a href="https://travistorrent.testroots.org/page_dataformat/">aqui</a>, the TravisTorrent data format is described.
+Acess this <a href="https://travistorrent.testroots.org/page_dataformat/">link</a>, where TravisTorrent data format is described.
 
 ## Dependencies
 For install dependencies, use pip and pip3.
