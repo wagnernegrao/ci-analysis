@@ -3,11 +3,11 @@
 This repository contains the materials used in the paper: "Continuous Integration Theater", submitted to the 13th International Symposium on Empirical Software Engineering and Measurement (ESEM).
 
 Authors:
-- [Wagner Felidré (First author)](github.com/wagnernegrao)
-- [Leonardo Furtado (Co-author and presenter)](github.com/leonardofurtado)
+- [Wagner Felidré (First author)](https://github.com/wagnernegrao)
+- [Leonardo Furtado (Co-author and presenter)](https://github.com/leonardofurtado)
 - Daniel Alencar (Co-author)
 - Bruno Cartaxo (Co-author)
-- [Gustavo Pinto (Advisor)](github.com/gustavopinto)
+- [Gustavo Pinto (Advisor)](https://github.com/gustavopinto)
 
 Database used 'travistorrent_11_1_2017.csv.gz',  available in <a href="https://travistorrent.testroots.org/page_access/">TravisTorrent</a>.
 
